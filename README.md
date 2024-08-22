@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with service mesh integration for nodejs microservices
 - 💬 Ask me about AWS, DevOps, Docker & Kubernetes
-- 📫 How to reach me: suresh.palani@abjayon.com
+- 📫 How to reach me: suresh.kumarpm@outlook.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
